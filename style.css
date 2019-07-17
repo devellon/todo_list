@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+
+body {
+    background-color: #24272E;
+}
+
+.tdlHeader {
+  color: white;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  font-size: 3.5em;
+}
+
+.body {
+    text-align: center;
+}
+
+.list {
+    list-style-type: none;
+    color: white;
+}
+
